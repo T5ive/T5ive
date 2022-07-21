@@ -28,9 +28,12 @@
 
 ## General Tools
  - [Toolkit-Launcher](https://github.com/T5ive/Toolkit-Launcher)
- - [Smart-de4dot](https://github.com/T5ive/Smart-de4dot)
  - [Keyboard-Locker](https://github.com/T5ive/Keyboard-Locker)
  - [CMD-GUI](https://github.com/T5ive/CMD-GUI)
+
+## Reverse Tools
+ - [Smart-de4dot](https://github.com/T5ive/Smart-de4dot)
+ - [EazfuscatorRMT](https://github.com/T5ive/EazfuscatorRMT)
 
 ## Automation Tools
  - [Auto-Click](https://github.com/T5ive/Auto-Click) - very old code format
@@ -40,8 +43,8 @@
 ## Library
  - [DarkUI](https://github.com/T5ive/DarkUI)  
  - [TFive-Library](https://github.com/T5ive/TFive-Library)
+ 
 ## Modding APK
-
  - [libil2cpp-Patcher](https://github.com/T5ive/libil2cpp-Patcher)
  - [Tools-Injector-Mod-Menu](https://github.com/T5ive/Tools-Injector-Mod-Menu)
  - [TFive-Tool-Mod-Menu](https://github.com/T5ive/TFive-Tool-Mod-Menu)
