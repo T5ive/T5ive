@@ -39,6 +39,7 @@
  - [Auto-Click](https://github.com/T5ive/Auto-Click) - very old code format
  - [Auto-Baccarat](https://github.com/T5ive/Auto-Baccarat)
  - [BaccaratScrore](https://github.com/T5ive/BaccaratScrore)
+ - [Devil-Awakening-Bot](https://github.com/T5ive/Devil-Awakening-Bot)
 
 ## Library
  - [DarkUI](https://github.com/T5ive/DarkUI)  
