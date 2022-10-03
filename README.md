@@ -1,15 +1,6 @@
 # T5ive: C# Developer 🚀 from Thailand.
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
-
-
-## Talking about Personal Stuffs:
-
-- 👨🏽‍💻 I’m looking for a job 😭;
-- 🌱 I’m currently learning React & ML.net;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in Law;
-
 ## 
 <a href="https://github.com/T5ive">
    <img width="100%" alt="T5ive's github stats" src="https://github-readme-stats.vercel.app/api?username=T5ive&theme=react&show_icons=true" />
