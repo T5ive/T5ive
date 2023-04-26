@@ -3,8 +3,8 @@
 
 ## 
 <a href="https://github.com/T5ive">
-   <img width="100%" alt="T5ive's github stats" src="https://github-readme-stats.vercel.app/api?username=T5ive&theme=react&show_icons=true" />
-   <img width="30%" align="right" alt="T5ive's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T5ive&theme=react&show_icons=true" />
+   <img width="100%" alt="T5ive's github stats" src="https://github-readme-stats-t5ive.vercel.app/api?username=T5ive&theme=react&show_icons=true" />
+   <img width="30%" align="right" alt="T5ive's github stats" src="https://github-readme-stats-t5ive.vercel.app/api/top-langs/?username=T5ive&theme=react&show_icons=true" />
    <p align="center">
       <img alt="ViewCount" src="https://views.whatilearened.today/views/github/T5ive/T5ive.svg" />
    </p>   
