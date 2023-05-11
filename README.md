@@ -41,6 +41,7 @@
  - [Keyboard-Locker](https://github.com/T5ive/Keyboard-Locker)
  - [CMD-GUI](https://github.com/T5ive/CMD-GUI)
  - [GitPull](https://github.com/T5ive/GitPull)
+ - [GitHelper](https://github.com/T5ive/GitHelper)
 
 ## Reverse Tools
  - [Smart-de4dot](https://github.com/T5ive/Smart-de4dot)
