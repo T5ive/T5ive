@@ -10,7 +10,7 @@
       <img alt="ViewCount" src="https://komarev.com/ghpvc/?username=T5ive&label=Views&color=blue" />
    </p>   
    <p align="left"> 
-      <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=T5ive" alt="T5ive" /></a> 
+      <img src="https://github-profile-trophy.vercel.app/?username=T5ive" alt="T5ive" />
    </p>
 </a>
 
