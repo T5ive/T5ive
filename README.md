@@ -7,14 +7,16 @@
    <img width="30%" align="right" alt="T5ive's github stats" src="https://github-readme-stats-t5ive.vercel.app/api/top-langs/?username=T5ive&theme=react&show_icons=true" />
    <p align="center">
       <img alt="ViewCount" src="https://views.whatilearened.today/views/github/T5ive/T5ive.svg" />
+      <img alt="ViewCount" src="https://komarev.com/ghpvc/?username=T5ive&label=Views&color=blue" />
    </p>   
+   <p align="left"> 
+      <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=T5ive" alt="T5ive" /></a> 
+   </p>
 </a>
 
-<p align="center">
-   <a href="https://resume.github.io/?T5ive">
-      <img width="10%" alt="Résumé" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" />
-   </a>
-</p>
+<h2 align="center">
+   <a href="https://resume.github.io/?T5ive" style="font-size: 35px;"> Résumé </a>
+</h2>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -66,3 +68,9 @@
   
 ## rAthena
  - [rAthena-Server-Monitor](https://github.com/T5ive/rAthena-Server-Monitor)
+
+<p align="center">
+   <a href="https://github.com/T5ive">
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=T5ive" alt="T5ive" />
+   </a>
+</p>
