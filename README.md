@@ -1,7 +1,6 @@
-# T5ive: C# Developer 🚀 from Thailand.
+# T5ive: Full-Stack C# Developer 🚀 from Thailand.
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
-## 
 <a href="https://github.com/T5ive">
    <img width="100%" alt="T5ive's github stats" src="https://github-readme-stats-t5ive.vercel.app/api?username=T5ive&theme=react&show_icons=true" />
    <img width="30%" align="right" alt="T5ive's github stats" src="https://github-readme-stats-t5ive.vercel.app/api/top-langs/?username=T5ive&theme=react&show_icons=true" />
@@ -29,45 +28,37 @@
    <a href="https://www.w3schools.com/js/" target="_blank"><img alt="JavaScript" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" /></a>
    <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" /></a>
    <a href="https://www.w3schools.com/sql/" target="_blank"><img alt="SQL" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" /></a>
-   <a href="https://www.w3schools.com/php/" target="_blank"><img alt="PHP" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png" /></a>
-   <a href="https://angular.io" target="_blank"><img alt="Angular" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" /></a>
-   <a href="https://flutter.dev" target="_blank"><img alt="Flutter" height="36px" src="https://storage.googleapis.com/cms-storage-bucket/4fd0db61df0567c0f352.png" /></a>
+   <a href="https://angular.io" target="_blank"><img alt="Angular" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" /></a>   
    <a href="https://git-scm.com/" target="_blank"><img alt="Git" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Git_format.png/672px-Git_format.png" /></a>
    <a href="https://en.wikipedia.org/wiki/VMware_Workstation" target="_blank"><img alt="Vmware" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/600px-Vmware_workstation_16_icon.svg.png" /></a>
 </p>
 
-# My Projects
 
-## General Tools
- - [Toolkit-Launcher](https://github.com/T5ive/Toolkit-Launcher)
- - [Keyboard-Locker](https://github.com/T5ive/Keyboard-Locker)
- - [CMD-GUI](https://github.com/T5ive/CMD-GUI)
- - [GitPull](https://github.com/T5ive/GitPull)
- - [GitHelper](https://github.com/T5ive/GitHelper)
+<b>Main Languages</b>
+```text
+HTML           ████████████████████████░   95 %
+C#             ████████████████████░░░░░   80 %
+Java Script    ████████░░░░░░░░░░░░░░░░░   40 %
+SQL            ████████░░░░░░░░░░░░░░░░░   40 %
+CSS            ███░░░░░░░░░░░░░░░░░░░░░░   15 %
+TypeScript     ██░░░░░░░░░░░░░░░░░░░░░░░   10 % 
+```
+<b>Other Languages</b>
+```text
+VB.Net         ██████████████████░░░░░░░   70 %
+Python         ████████░░░░░░░░░░░░░░░░░   40 %
+C/C++          ████████░░░░░░░░░░░░░░░░░   40 %
+```
 
-## Reverse Tools
- - [Smart-de4dot](https://github.com/T5ive/Smart-de4dot)
- - [EazfuscatorRMT](https://github.com/T5ive/EazfuscatorRMT)
+## Frameworks and libraies
+- <a href="https://github.com/aspnetboilerplate/aspnetboilerplate">ASP.NET Boilerplate</a>, <a href="https://github.com/abpframework/abp">ABP Framework</a> and <a href="https://github.com/jasontaylordev/CleanArchitecture">Clean Architecture</a>
+- ASP.NET Core, ASP.NET Core MVC and ASP.NET Web APIs
+- Entity Framework and Dapper
+- Html/TypeScript, Html/Razor, MAUI and Windows Forms
+- Angular
+- <b>Templates: </b> <a href="https://keenthemes.com/metronic/">Metronic</a> and <a href="https://themeforest.net/user/pixinvent">PIXINVENT</a>
 
-## Automation Tools
- - [Auto-Click](https://github.com/T5ive/Auto-Click) - very old code format
- - [Auto-Baccarat](https://github.com/T5ive/Auto-Baccarat)
- - [BaccaratScrore](https://github.com/T5ive/BaccaratScrore)
- - [Devil-Awakening-Bot](https://github.com/T5ive/Devil-Awakening-Bot)
- - [TFive-Windows-Information](https://github.com/T5ive/TFive-Windows-Information)
-
-## Library
- - [DarkUI](https://github.com/T5ive/DarkUI)  
- - [TFive-Library](https://github.com/T5ive/TFive-Library)
- 
-## Modding APK
- - [libil2cpp-Patcher](https://github.com/T5ive/libil2cpp-Patcher)
- - [Tools-Injector-Mod-Menu](https://github.com/T5ive/Tools-Injector-Mod-Menu)
- - [TFive-Tool-Mod-Menu](https://github.com/T5ive/TFive-Tool-Mod-Menu)
- - [Il2CppDumper-GUI](https://github.com/T5ive/Il2CppDumper-GUI)
-  
-## rAthena
- - [rAthena-Server-Monitor](https://github.com/T5ive/rAthena-Server-Monitor)
+#
 
 <p align="center">
    <a href="https://github.com/T5ive">
