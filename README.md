@@ -34,7 +34,7 @@
 </p>
 
 
-<b>Main Languages</b>
+<b>My Skills</b>
 ```text
 HTML           ████████████████████████░   95 %
 C#             ████████████████████░░░░░   80 %
@@ -43,7 +43,7 @@ SQL            ████████░░░░░░░░░░░░░�
 CSS            ███░░░░░░░░░░░░░░░░░░░░░░   15 %
 TypeScript     ██░░░░░░░░░░░░░░░░░░░░░░░   10 % 
 ```
-<b>Other Languages</b>
+<b>...</b>
 ```text
 VB.Net         ██████████████████░░░░░░░   70 %
 Python         ████████░░░░░░░░░░░░░░░░░   40 %
@@ -51,7 +51,7 @@ C/C++          ████████░░░░░░░░░░░░░�
 ```
 
 ## Frameworks and libraies
-- <a href="https://github.com/aspnetboilerplate/aspnetboilerplate">ASP.NET Boilerplate</a>, <a href="https://github.com/abpframework/abp">ABP Framework</a> and <a href="https://github.com/jasontaylordev/CleanArchitecture">Clean Architecture</a>
+- <a href="https://github.com/aspnetboilerplate/aspnetboilerplate"><del>ASP.NET Boilerplate</del></a>, <a href="https://github.com/abpframework/abp">ABP Framework</a> and <a href="https://github.com/jasontaylordev/CleanArchitecture">Clean Architecture</a>
 - ASP.NET Core, ASP.NET Core MVC and ASP.NET Web APIs
 - Entity Framework and Dapper
 - Html/TypeScript, Html/Razor, MAUI and Windows Forms
