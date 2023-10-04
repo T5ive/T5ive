@@ -56,7 +56,7 @@ C/C++          ████████░░░░░░░░░░░░░�
 - Entity Framework and Dapper
 - Html/TypeScript, Html/Razor, MAUI and Windows Forms
 - Angular
-- <b>Templates: </b> <a href="https://keenthemes.com/metronic/">Metronic</a> and <a href="https://themeforest.net/user/pixinvent">PIXINVENT</a>
+- <a href="https://github.com/bigskysoftware/htmx/">HTMX</a>
 
 #
 
