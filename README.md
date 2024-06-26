@@ -28,7 +28,8 @@
    <a href="https://www.w3schools.com/js/" target="_blank"><img alt="JavaScript" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" /></a>
    <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" /></a>
    <a href="https://www.w3schools.com/sql/" target="_blank"><img alt="SQL" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" /></a>
-   <a href="https://angular.io" target="_blank"><img alt="Angular" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" /></a>   
+   <a href="https://angular.io" target="_blank"><img alt="Angular" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" /></a>
+   <a href="https://react.dev" target="_blank"><img alt="React" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/3/30/React_Logo_SVG.svg" /></a>
    <a href="https://git-scm.com/" target="_blank"><img alt="Git" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Git_format.png/672px-Git_format.png" /></a>
    <a href="https://en.wikipedia.org/wiki/VMware_Workstation" target="_blank"><img alt="Vmware" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/600px-Vmware_workstation_16_icon.svg.png" /></a>
 </p>
@@ -50,13 +51,14 @@ Python         ████████░░░░░░░░░░░░░�
 C/C++          ████████░░░░░░░░░░░░░░░░░   40 %
 ```
 
-## Frameworks and libraies
+## ABCD
 - <a href="https://github.com/aspnetboilerplate/aspnetboilerplate"><del>ASP.NET Boilerplate</del></a>, <a href="https://github.com/abpframework/abp">ABP Framework</a> and <a href="https://github.com/jasontaylordev/CleanArchitecture">Clean Architecture</a>
 - ASP.NET Core, ASP.NET Core MVC and ASP.NET Web APIs
-- Entity Framework and Dapper
-- Html/TypeScript, Html/Razor, MAUI and Windows Forms
+- Entity Framework and <del>Dapper</del>
+- Windows Forms/Avalonia
+- Html/Razor/Jquery
 - Angular
-- <a href="https://github.com/bigskysoftware/htmx/">HTMX</a>
+- React
 
 #
 
