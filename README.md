@@ -56,7 +56,6 @@ I focus on building maintainable and scalable software using modern architecture
   <a href="https://git-scm.com/" target="_blank"><img alt="Git" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Git_format.png/672px-Git_format.png" /></a>
   <a href="https://visualstudio.microsoft.com/" target="_blank"><img alt="Visual Studio" height="40px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" /></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img alt="VS Code" height="40px" src="https://code.visualstudio.com/assets/images/code-stable.png" /></a>
-  <a href="https://www.jetbrains.com/webstorm/" target="_blank"><img alt="WebStorm" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" /></a>
 </p>
 
 ---
@@ -86,7 +85,7 @@ I focus on building maintainable and scalable software using modern architecture
 
 ### Others
 
-- VB.Net, Python, C/C++
+- VB.Net, Python, C/C++, Flutter, Objective-C, Swift
 - Git
 
 ### Libraries
