@@ -28,7 +28,7 @@
 
 I am a professional Full-Stack Developer based in Thailand.
 
-My strongest areas are **C#** and **ASP.NET API** for backend development.
+My strongest areas are **C#** and **ASP.NET** for backend development.
 
 On the frontend, I am highly proficient in **Blazor (Microsoft)**, then **Angular**, and **React**.
 
