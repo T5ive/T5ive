@@ -1,4 +1,4 @@
-# T5ive: C# Developer 🚀 from Thailand
+# T5ive: .Net Developer 🚀 from Thailand
 
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
@@ -26,13 +26,15 @@
 
 ## 👋 About Me
 
-I am a Senior Full-Stack Developer and team coordinator based in Thailand.
+I am a Senior Software Engineer  in Thailand.
 
-My strongest areas are **C#** and **ASP.NET** for backend development.
+My work encompasses:
+- **Requirements Engineering**: Understanding client needs, identifying pain points, and designing solutions
+- **Full-Stack Development**: Strong in **C#** and **ASP.NET** backend, with frontend expertise in **Blazor**, **Angular**, and **React**
+- **Mobile Development**: Building cross-platform applications for **Android** and **iOS**
+- **DevOps & Deployment**: Handling testing, deployment, and production operations end-to-end
 
-On the frontend, I am highly proficient in **Blazor**, followed by **Angular** and **React**.
-
-I focus on building maintainable and scalable software using modern architecture and best practices.
+I focus on delivering complete, maintainable solutions using modern architecture and best practices.
 
 ---
 
